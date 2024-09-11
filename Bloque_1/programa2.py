@@ -3,6 +3,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import random
+import time
 
 
 class Automata:
@@ -46,6 +47,7 @@ class Automata:
         
 
 def generar_cadenas(n, nombre_archivo="Bloque_1\\cadenas_binarias.txt"):
+    # n es numero de cadenas que quiere generar
     with open(nombre_archivo, "w") as archivo:
         for _ in range(n):
             cadena_binaria = ''.join(random.choice('01') for _ in range(64))
@@ -59,14 +61,42 @@ def leer_cadenas(n, nombre_archivo="Bloque_1\\cadenas_binarias.txt"):
             if i == n:
                 return linea.strip()
         raise IndexError("Índice fuera del rango del archivo.")
+    
+
+def escribir_true_false(bool, cadena):
+    if bool == True:
+        with open("Bloque_1\\cadenas_true.txt", "a") as archivo:
+            archivo.write(cadena + '\n')
+    else:
+        with open("Bloque_1\\cadenas_false.txt", "a") as archivo:
+            archivo.write(cadena + '\n')
 
 
 def main():
-    generar_cadenas(500)
     automata = Automata()
 
-    cadena1 = leer_cadenas(0)
-    print(f"¿La cadena {cadena1} es paridad de 0's y 1's?:", automata.procesar_cadena(cadena1))
+    num_cadenas = 500
+    n = 1
+    while True:
+        # ready
+        if n > 0.5:
+            n = np.random.random()
+            # data in
+            generar_cadenas(num_cadenas)
+
+            # send (2seconds)
+            time.sleep(2)
+
+            # ack (DFA)
+            for i in range(num_cadenas):
+                cadena = leer_cadenas(i)  # Leer cada cadena
+                resultado = automata.procesar_cadena(cadena)  # Procesar la cadena con el autómata
+                escribir_true_false(resultado, cadena)
+        else:
+            print("No se generaron nuevas cadenas.")
+            break
+
+    print("Terminando el programa...")
 
 
 if __name__ == "__main__":
