@@ -38,12 +38,6 @@ def nfa_accepts(input_string):
 
 
 def main():
-    # Test the NFA with some input strings
-    # test_strings = ["rb", "rbr", "b", "rrb", "brb", "rbb", "rbbrr"]
-    # for string in test_strings:
-    #     result = nfa_accepts(string)
-    #     print(f"The string '{string}' is {'accepted' if result else 'not accepted'} by the NFA.")
-
     cadena = str(input("Write the string: "))
     result = nfa_accepts(cadena)
     print(f"The string '{cadena}' is {'accepted' if result else 'not accepted'} by the NFA.")
