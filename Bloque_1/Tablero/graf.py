@@ -48,7 +48,7 @@ rutas_jugador2 = leer_arrays_desde_txt(ruta_j2)
 
 
 # Función para seleccionar rutas alternativas
-def buscar_ruta_alternativa(ruta_actual, rutas, camino_recorrido):
+def buscar_ruta_alternativa(rutas, camino_recorrido):
     posibles_rutas = []
     for ruta in rutas:
         # Comprobar si la ruta alternativa comienza con el camino recorrido
@@ -101,9 +101,9 @@ indice_j1 = 0
 indice_j2 = 0
 ruta_actual_j1 = ruta_j1
 ruta_actual_j2 = ruta_j2  # Ruta actual de Jugador 2
-camino_j1 = [ruta_j1[0]]  # Para mantener el recorrido del Jugador 2
+camino_j1 = [ruta_j1[0]]  # Para mantener el recorrido del Jugador 1
 camino_j2 = [ruta_j2[0]]  # Para mantener el recorrido del Jugador 2
-tam_camino_j1 = 1  # Tamaño del camino recorrido por Jugador 2
+tam_camino_j1 = 1  # Tamaño del camino recorrido por Jugador 1
 tam_camino_j2 = 1  # Tamaño del camino recorrido por Jugador 2
 estado_final1 = 25
 estado_final2 = 21
@@ -117,7 +117,7 @@ def actualizar(i):
             siguiente_pos_j1 = ruta_actual_j1[indice_j1]
             # Verificar colisión con Jugador 2
             if siguiente_pos_j1 == pos_j2:
-                nueva_ruta1 = buscar_ruta_alternativa(ruta_j1, rutas_jugador1, camino_j1)
+                nueva_ruta1 = buscar_ruta_alternativa(rutas_jugador1, camino_j1)
                 if nueva_ruta1:
                     ruta_actual_j1 = nueva_ruta1  # Cambiar de ruta
                     titulo.set_text(f"¡Colisión! Jugador 1 cambia de ruta")
@@ -137,7 +137,7 @@ def actualizar(i):
             siguiente_pos_j2 = ruta_actual_j2[indice_j2]
             # Verificar colisión con Jugador 1
             if siguiente_pos_j2 == pos_j1:
-                nueva_ruta2 = buscar_ruta_alternativa(ruta_j2, rutas_jugador2, camino_j2)
+                nueva_ruta2 = buscar_ruta_alternativa(rutas_jugador2, camino_j2)
                 if nueva_ruta2:
                     ruta_actual_j2 = nueva_ruta2  # Cambiar de ruta
                     titulo.set_text(f"¡Colisión! Jugador 2 cambia de ruta")
