@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import networkx as nx
 
-def dibujar_grafo_desde_archivo(archivo, mensaje):
+def red(archivo, mensaje, estado_fin):
 
     G = nx.DiGraph()
 
@@ -30,10 +30,19 @@ def dibujar_grafo_desde_archivo(archivo, mensaje):
         
         for idx, nodo in enumerate(nodos_en_columna):
             posiciones[nodo] = (columna, -idx * distancia_entre_columnas)
-    
-    nx.draw(G, pos=posiciones, with_labels=False, node_size=800, node_color='lightblue', font_size=10, font_weight='bold', arrows=True)
+
+    color_nodos = []
+    for nodo in G.nodes():
+        if nodo[1] == estado_fin:
+            color_nodos.append('blue')
+        else:
+            color_nodos.append('lightblue')
+            
+
+    nx.draw(G, pos=posiciones, with_labels=False, node_size=800, node_color=color_nodos, font_size=10, font_weight='bold', arrows=True)
     etiquetas = {nodo: f"{nodo[1]}" for nodo in G.nodes()}
     nx.draw_networkx_labels(G, pos=posiciones, labels=etiquetas, font_color='black', font_size=8)
+    
     
    
     plt.text(0.5, 0.95, mensaje, ha='center', va='center', fontsize=12, transform=plt.gca().transAxes)
@@ -43,5 +52,5 @@ def dibujar_grafo_desde_archivo(archivo, mensaje):
     plt.show()
 
 
-dibujar_grafo_desde_archivo('Bloque_1\\Tablero\\all_routes_player1.txt', "Red del jugador 1")
-dibujar_grafo_desde_archivo('Bloque_1\\Tablero\\all_routes_player2.txt', "Red del jugador 2")
+red('Bloque_1\\Tablero\\all_routes_player1.txt', "Red del jugador 1", 25)
+red('Bloque_1\\Tablero\\all_routes_player2.txt', "Red del jugador 2", 21)
