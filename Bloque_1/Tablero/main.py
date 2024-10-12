@@ -194,7 +194,7 @@ def run_game_animation(ruta_j1, ruta_j2):
     # Estado inicial
     indice_j1 = 0
     indice_j2 = 0
-    turno_j1 = True
+    turno_j1 = random.choice([True, False])
     estado_final1 = 25
     estado_final2 = 21
     empate1 = False
