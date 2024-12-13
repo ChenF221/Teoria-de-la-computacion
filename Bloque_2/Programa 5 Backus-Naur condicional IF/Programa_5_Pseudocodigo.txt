@@ -1,0 +1,14 @@
+if (cond) then
+{
+    if (cond) then
+    {
+        if (cond) then
+        {
+            statement
+        }
+    }
+    else
+    {
+        statement
+    }
+}
