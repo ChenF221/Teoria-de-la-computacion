@@ -1,5 +1,10 @@
 Paso 1: S
 Paso 2: Aplicamos S -> iCtSA: (iCtSA)
-Paso 3: Aplicamos S -> iCtSA: (iCt(iCtSA)A)
-Paso 4: Aplicamos A -> ;eS: (iCt(iCtS(;eS))A)
-Paso 5: Aplicamos S -> iCtSA: (iCt(iCt(iCtSA)(;eS))A)
+Paso 3: Aplicamos A -> ;eS: (iCtS(;eS))
+Paso 4: Aplicamos S -> iCtSA: (iCt(iCtSA)(;eS))
+Paso 5: Aplicamos S -> iCtSA: (iCt(iCt(iCtSA)A)(;eS))
+Paso 6: Aplicamos A -> ε: (iCt(iCt(iCtS)A)(;eS))
+Paso 7: Aplicamos A -> ;eS: (iCt(iCt(iCtS)(;eS))(;eS))
+Paso 8: Aplicamos S -> iCtSA: (iCt(iCt(iCt(iCtSA))(;eS))(;eS))
+Paso 9: Aplicamos S -> iCtSA: (iCt(iCt(iCt(iCt(iCtSA)A))(;eS))(;eS))
+Paso 10: Aplicamos A -> ε: (iCt(iCt(iCt(iCt(iCtS)A))(;eS))(;eS))

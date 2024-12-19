@@ -1,15 +1,12 @@
-def generate_pseudocode(expression):
+def convertir_a_pseudocodigo(expression):
 
     expression = expression[1:-1]  # Eliminar los paréntesis externos
     def parse_expression(expr, indent=0):
         result = ""
-        count = 0
+
         while expr:
             char = expr[0]
             expr = expr[1:]
-
-            if char == '(':
-                count += 1
 
             if char == 'i':  # if
                 result += " " * indent + "if (cond) then\n"
@@ -18,9 +15,10 @@ def generate_pseudocode(expression):
                 result += nested
                 result += " " * indent + "}\n"
             elif char == 'A':  # then
-                break
+                pass
             elif char == 'S':  # statement
                 result += " " * indent + "statement\n"
+                break
             elif char == ';':  # else starts
                 result += " " * indent + "else\n"
                 result += " " * indent + "{\n"
@@ -28,7 +26,7 @@ def generate_pseudocode(expression):
                 result += nested
                 result += " " * indent + "}\n"
             elif char == ')':  # end of a block
-                count -= 1
+                #indent -= 4
                 break
 
         return result, expr
@@ -36,12 +34,7 @@ def generate_pseudocode(expression):
     pseudocode, _ = parse_expression(expression)
     return pseudocode
 
-# Guardar el resultado en un archivo txt
-def save_to_txt(expression, filename):
-    pseudocode = generate_pseudocode(expression)
-    with open(filename, 'w') as file:
-        file.write(pseudocode)
+# Ejemplo:
+expression = "(iCt(iCt(iCt(iCt(iCtS)A))(;eS))(;eS))"
+print(convertir_a_pseudocodigo(expression))
 
-# Ejecutar y guardar el resultado
-expression = "iCt(iCt(iCt(iCtSA)A)(;eS))A"
-save_to_txt(expression, "pseudocode.txt") 

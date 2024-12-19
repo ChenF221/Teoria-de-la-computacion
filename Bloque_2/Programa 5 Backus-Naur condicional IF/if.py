@@ -47,9 +47,10 @@ def convertir_a_pseudocodigo(expression):
                 result += nested
                 result += " " * indent + "}\n"
             elif char == 'A':  # then
-                break
+                pass
             elif char == 'S':  # statement
                 result += " " * indent + "statement\n"
+                break
             elif char == ';':  # else starts
                 result += " " * indent + "else\n"
                 result += " " * indent + "{\n"
@@ -57,6 +58,7 @@ def convertir_a_pseudocodigo(expression):
                 result += nested
                 result += " " * indent + "}\n"
             elif char == ')':  # end of a block
+                indent -= 4
                 break
 
         return result, expr

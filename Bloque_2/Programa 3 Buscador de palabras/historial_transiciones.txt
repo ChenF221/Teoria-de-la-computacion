@@ -1,0 +1,385 @@
+Palabra: En
+  e: 1 -> 1
+  n: 1 -> 1
+
+Palabra: un
+  u: 1 -> 1
+  n: 1 -> 1
+
+Palabra: comunicado
+  c: 1 -> 1
+  o: 1 -> 1
+  m: 1 -> 4
+  u: 4 -> 1
+  n: 1 -> 1
+  i: 1 -> 1
+  c: 1 -> 1
+  a: 1 -> 2
+  d: 2 -> 1
+  o: 1 -> 1
+
+Palabra: de
+  d: 1 -> 1
+  e: 1 -> 1
+
+Palabra: la
+  l: 1 -> 1
+  a: 1 -> 2
+
+Palabra: dependencia
+  d: 1 -> 1
+  e: 1 -> 1
+  p: 1 -> 1
+  e: 1 -> 1
+  n: 1 -> 1
+  d: 1 -> 1
+  e: 1 -> 1
+  n: 1 -> 1
+  c: 1 -> 1
+  i: 1 -> 1
+  a: 1 -> 2
+
+Palabra: estadounidense
+  e: 1 -> 1
+  s: 1 -> 1
+  t: 1 -> 1
+  a: 1 -> 2
+  d: 2 -> 1
+  o: 1 -> 1
+  u: 1 -> 1
+  n: 1 -> 1
+  i: 1 -> 1
+  d: 1 -> 1
+  e: 1 -> 1
+  n: 1 -> 1
+  s: 1 -> 1
+  e: 1 -> 1
+
+Palabra: se
+  s: 1 -> 1
+  e: 1 -> 1
+
+Palabra: informó
+  i: 1 -> 1
+  n: 1 -> 1
+  f: 1 -> 1
+  o: 1 -> 1
+  r: 1 -> 1
+  m: 1 -> 4
+  ó: 4 -> 1
+
+Palabra: que
+  q: 1 -> 1
+  u: 1 -> 1
+  e: 1 -> 1
+
+Palabra: el
+  e: 1 -> 1
+  l: 1 -> 1
+
+Palabra: pasado
+  p: 1 -> 1
+  a: 1 -> 2
+  s: 2 -> 1
+  a: 1 -> 2
+  d: 2 -> 1
+  o: 1 -> 1
+
+Palabra: 11
+  1: 1 -> 1
+  1: 1 -> 1
+
+Palabra: de
+  d: 1 -> 1
+  e: 1 -> 1
+
+Palabra: diciembre
+  d: 1 -> 1
+  i: 1 -> 1
+  c: 1 -> 1
+  i: 1 -> 1
+  e: 1 -> 1
+  m: 1 -> 4
+  b: 4 -> 1
+  r: 1 -> 1
+  e: 1 -> 1
+
+Palabra: seleccionaron
+  s: 1 -> 1
+  e: 1 -> 1
+  l: 1 -> 1
+  e: 1 -> 1
+  c: 1 -> 1
+  c: 1 -> 1
+  i: 1 -> 1
+  o: 1 -> 1
+  n: 1 -> 1
+  a: 1 -> 2
+  r: 2 -> 1
+  o: 1 -> 1
+  n: 1 -> 1
+
+Palabra: a
+  a: 1 -> 2
+
+Palabra: un
+  u: 1 -> 1
+  n: 1 -> 1
+
+Palabra: vehículo
+  v: 1 -> 3
+  e: 3 -> 1
+  h: 1 -> 1
+  í: 1 -> 1
+  c: 1 -> 1
+  u: 1 -> 1
+  l: 1 -> 1
+  o: 1 -> 1
+
+Palabra: Dodge
+  d: 1 -> 1
+  o: 1 -> 1
+  d: 1 -> 1
+  g: 1 -> 1
+  e: 1 -> 1
+
+Palabra: modelo
+  m: 1 -> 4
+  o: 4 -> 1
+  d: 1 -> 1
+  e: 1 -> 1
+  l: 1 -> 1
+  o: 1 -> 1
+
+Palabra: 1998
+  1: 1 -> 1
+  9: 1 -> 1
+  9: 1 -> 1
+  8: 1 -> 1
+
+Palabra: para
+  p: 1 -> 1
+  a: 1 -> 2
+  r: 2 -> 1
+  a: 1 -> 2
+
+Palabra: una
+  u: 1 -> 1
+  n: 1 -> 1
+  a: 1 -> 2
+
+Palabra: segunda
+  s: 1 -> 1
+  e: 1 -> 1
+  g: 1 -> 1
+  u: 1 -> 1
+  n: 1 -> 1
+  d: 1 -> 1
+  a: 1 -> 2
+
+Palabra: revisión
+  r: 1 -> 1
+  e: 1 -> 1
+  v: 1 -> 3
+  i: 3 -> 7
+  s: 7 -> 1
+  i: 1 -> 1
+  ó: 1 -> 1
+  n: 1 -> 1
+
+Palabra: con
+  c: 1 -> 1
+  o: 1 -> 1
+  n: 1 -> 1
+
+Palabra: ayuda
+  a: 1 -> 2
+  y: 2 -> 1
+  u: 1 -> 1
+  d: 1 -> 1
+  a: 1 -> 2
+
+Palabra: de
+  d: 1 -> 1
+  e: 1 -> 1
+
+Palabra: perros
+  p: 1 -> 1
+  e: 1 -> 1
+  r: 1 -> 1
+  r: 1 -> 1
+  o: 1 -> 1
+  s: 1 -> 1
+
+Palabra: entrenados
+  e: 1 -> 1
+  n: 1 -> 1
+  t: 1 -> 1
+  r: 1 -> 1
+  e: 1 -> 1
+  n: 1 -> 1
+  a: 1 -> 2
+  d: 2 -> 1
+  o: 1 -> 1
+  s: 1 -> 1
+
+Palabra: en
+  e: 1 -> 1
+  n: 1 -> 1
+
+Palabra: la
+  l: 1 -> 1
+  a: 1 -> 2
+
+Palabra: detección
+  d: 1 -> 1
+  e: 1 -> 1
+  t: 1 -> 1
+  e: 1 -> 1
+  c: 1 -> 1
+  c: 1 -> 1
+  i: 1 -> 1
+  ó: 1 -> 1
+  n: 1 -> 1
+
+Palabra: de
+  d: 1 -> 1
+  e: 1 -> 1
+
+Palabra: narcóticos
+  n: 1 -> 1
+  a: 1 -> 2
+  r: 2 -> 1
+  c: 1 -> 1
+  ó: 1 -> 1
+  t: 1 -> 1
+  i: 1 -> 1
+  c: 1 -> 1
+  o: 1 -> 1
+  s: 1 -> 1
+
+Palabra: armas
+  a: 1 -> 2
+  r: 2 -> 1
+  m: 1 -> 4
+  a: 4 -> 9
+  s: 9 -> 1
+
+Palabra: y
+  y: 1 -> 1
+
+Palabra: explosivos
+  e: 1 -> 1
+  x: 1 -> 1
+  p: 1 -> 1
+  l: 1 -> 1
+  o: 1 -> 1
+  s: 1 -> 1
+  i: 1 -> 1
+  v: 1 -> 3
+  o: 3 -> 1
+  s: 1 -> 1
+
+Palabra: encontraron
+  e: 1 -> 1
+  n: 1 -> 1
+  c: 1 -> 1
+  o: 1 -> 1
+  n: 1 -> 1
+  t: 1 -> 1
+  r: 1 -> 1
+  a: 1 -> 2
+  r: 2 -> 1
+  o: 1 -> 1
+  n: 1 -> 1
+
+Palabra: en
+  e: 1 -> 1
+  n: 1 -> 1
+
+Palabra: su
+  s: 1 -> 1
+  u: 1 -> 1
+
+Palabra: interior
+  i: 1 -> 1
+  n: 1 -> 1
+  t: 1 -> 1
+  e: 1 -> 1
+  r: 1 -> 1
+  i: 1 -> 1
+  o: 1 -> 1
+  r: 1 -> 1
+
+Palabra: 13
+  1: 1 -> 1
+  3: 1 -> 1
+
+Palabra: armas
+  a: 1 -> 2
+  r: 2 -> 1
+  m: 1 -> 4
+  a: 4 -> 9
+  s: 9 -> 1
+
+Palabra: de
+  d: 1 -> 1
+  e: 1 -> 1
+
+Palabra: fuego
+  f: 1 -> 1
+  u: 1 -> 1
+  e: 1 -> 1
+  g: 1 -> 1
+  o: 1 -> 1
+
+Palabra: 26
+  2: 1 -> 1
+  6: 1 -> 1
+
+Palabra: cargadores
+  c: 1 -> 1
+  a: 1 -> 2
+  r: 2 -> 1
+  g: 1 -> 1
+  a: 1 -> 2
+  d: 2 -> 1
+  o: 1 -> 1
+  r: 1 -> 1
+  e: 1 -> 1
+  s: 1 -> 1
+
+Palabra: y
+  y: 1 -> 1
+
+Palabra: 40
+  4: 1 -> 1
+  0: 1 -> 1
+
+Palabra: cartuchos
+  c: 1 -> 1
+  a: 1 -> 2
+  r: 2 -> 1
+  t: 1 -> 1
+  u: 1 -> 1
+  c: 1 -> 1
+  h: 1 -> 1
+  o: 1 -> 1
+  s: 1 -> 1
+
+Palabra: de
+  d: 1 -> 1
+  e: 1 -> 1
+
+Palabra: municiones
+  m: 1 -> 4
+  u: 4 -> 1
+  n: 1 -> 1
+  i: 1 -> 1
+  c: 1 -> 1
+  i: 1 -> 1
+  o: 1 -> 1
+  n: 1 -> 1
+  e: 1 -> 1
+  s: 1 -> 1
+

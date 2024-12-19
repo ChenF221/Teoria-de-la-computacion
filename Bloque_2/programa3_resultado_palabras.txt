@@ -1,0 +1,15 @@
+víctima: 1 ocurrencias
+  Linea 4, Palabra 10
+violación: 1 ocurrencias
+  Linea 3, Palabra 11
+violencia: 2 ocurrencias
+  Linea 1, Palabra 2
+  Linea 6, Palabra 13
+acoso: 1 ocurrencias
+  Linea 2, Palabra 7
+machista: 1 ocurrencias
+  Linea 1, Palabra 3
+acecho: 1 ocurrencias
+  Linea 2, Palabra 11
+agresión: 1 ocurrencias
+  Linea 3, Palabra 4

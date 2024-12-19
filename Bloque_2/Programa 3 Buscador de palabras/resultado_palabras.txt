@@ -1,0 +1,6 @@
+rencor: 0 ocurrencias
+crimen: 0 ocurrencias
+estudiantes: 0 ocurrencias
+escuela: 0 ocurrencias
+rifles: 0 ocurrencias
+armas: 0 ocurrencias

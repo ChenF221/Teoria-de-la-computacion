@@ -1,0 +1,703 @@
+Palabra: La
+  l: 1 -> 1
+  a: 1 -> 2
+
+Palabra: violencia
+  v: 1 -> 3
+  i: 3 -> 7
+  o: 7 -> 13
+  l: 13 -> 19
+  e: 19 -> 26
+  n: 26 -> 32
+  c: 32 -> 37
+  i: 37 -> 42
+  a: 42 -> 45
+
+Palabra: machista
+  m: 1 -> 4
+  a: 4 -> 9
+  c: 9 -> 15
+  h: 15 -> 21
+  i: 21 -> 28
+  s: 28 -> 34
+  t: 34 -> 39
+  a: 39 -> 43
+
+Palabra: se
+  s: 1 -> 1
+  e: 1 -> 1
+
+Palabra: manifiesta
+  m: 1 -> 4
+  a: 4 -> 9
+  n: 9 -> 1
+  i: 1 -> 1
+  f: 1 -> 1
+  i: 1 -> 1
+  e: 1 -> 1
+  s: 1 -> 1
+  t: 1 -> 1
+  a: 1 -> 2
+
+Palabra: de
+  d: 1 -> 1
+  e: 1 -> 1
+
+Palabra: diversas
+  d: 1 -> 1
+  i: 1 -> 1
+  v: 1 -> 3
+  e: 3 -> 1
+  r: 1 -> 1
+  s: 1 -> 1
+  a: 1 -> 2
+  s: 2 -> 1
+
+Palabra: formas
+  f: 1 -> 1
+  o: 1 -> 1
+  r: 1 -> 1
+  m: 1 -> 4
+  a: 4 -> 9
+  s: 9 -> 1
+
+Palabra: a
+  a: 1 -> 2
+
+Palabra: lo
+  l: 1 -> 1
+  o: 1 -> 1
+
+Palabra: largo
+  l: 1 -> 1
+  a: 1 -> 2
+  r: 2 -> 1
+  g: 1 -> 1
+  o: 1 -> 1
+
+Palabra: de
+  d: 1 -> 1
+  e: 1 -> 1
+
+Palabra: nuestra
+  n: 1 -> 1
+  u: 1 -> 1
+  e: 1 -> 1
+  s: 1 -> 1
+  t: 1 -> 1
+  r: 1 -> 1
+  a: 1 -> 2
+
+Palabra: sociedad
+  s: 1 -> 1
+  o: 1 -> 1
+  c: 1 -> 1
+  i: 1 -> 1
+  e: 1 -> 1
+  d: 1 -> 1
+  a: 1 -> 2
+  d: 2 -> 1
+
+Palabra: adoptando
+  a: 1 -> 2
+  d: 2 -> 1
+  o: 1 -> 1
+  p: 1 -> 1
+  t: 1 -> 1
+  a: 1 -> 2
+  n: 2 -> 1
+  d: 1 -> 1
+  o: 1 -> 1
+
+Palabra: conductas
+  c: 1 -> 1
+  o: 1 -> 1
+  n: 1 -> 1
+  d: 1 -> 1
+  u: 1 -> 1
+  c: 1 -> 1
+  t: 1 -> 1
+  a: 1 -> 2
+  s: 2 -> 1
+
+Palabra: que
+  q: 1 -> 1
+  u: 1 -> 1
+  e: 1 -> 1
+
+Palabra: van
+  v: 1 -> 3
+  a: 3 -> 2
+  n: 2 -> 1
+
+Palabra: desde
+  d: 1 -> 1
+  e: 1 -> 1
+  s: 1 -> 1
+  d: 1 -> 1
+  e: 1 -> 1
+
+Palabra: el
+  e: 1 -> 1
+  l: 1 -> 1
+
+Palabra: acoso
+  a: 1 -> 2
+  c: 2 -> 5
+  o: 5 -> 10
+  s: 10 -> 16
+  o: 16 -> 22
+
+Palabra: verbal
+  v: 1 -> 3
+  e: 3 -> 1
+  r: 1 -> 1
+  b: 1 -> 1
+  a: 1 -> 2
+  l: 2 -> 1
+
+Palabra: hasta
+  h: 1 -> 1
+  a: 1 -> 2
+  s: 2 -> 1
+  t: 1 -> 1
+  a: 1 -> 2
+
+Palabra: el
+  e: 1 -> 1
+  l: 1 -> 1
+
+Palabra: acecho
+  a: 1 -> 2
+  c: 2 -> 5
+  e: 5 -> 11
+  c: 11 -> 17
+  h: 17 -> 23
+  o: 23 -> 29
+
+Palabra: físico
+  f: 1 -> 1
+  í: 1 -> 1
+  s: 1 -> 1
+  i: 1 -> 1
+  c: 1 -> 1
+  o: 1 -> 1
+
+Palabra: pasando
+  p: 1 -> 1
+  a: 1 -> 2
+  s: 2 -> 1
+  a: 1 -> 2
+  n: 2 -> 1
+  d: 1 -> 1
+  o: 1 -> 1
+
+Palabra: por
+  p: 1 -> 1
+  o: 1 -> 1
+  r: 1 -> 1
+
+Palabra: la
+  l: 1 -> 1
+  a: 1 -> 2
+
+Palabra: agresión
+  a: 1 -> 2
+  g: 2 -> 6
+  r: 6 -> 12
+  e: 12 -> 18
+  s: 18 -> 24
+  i: 24 -> 30
+  ó: 30 -> 35
+  n: 35 -> 40
+
+Palabra: directa
+  d: 1 -> 1
+  i: 1 -> 1
+  r: 1 -> 1
+  e: 1 -> 1
+  c: 1 -> 1
+  t: 1 -> 1
+  a: 1 -> 2
+
+Palabra: y
+  y: 1 -> 1
+
+Palabra: llegando
+  l: 1 -> 1
+  l: 1 -> 1
+  e: 1 -> 1
+  g: 1 -> 1
+  a: 1 -> 2
+  n: 2 -> 1
+  d: 1 -> 1
+  o: 1 -> 1
+
+Palabra: incluso
+  i: 1 -> 1
+  n: 1 -> 1
+  c: 1 -> 1
+  l: 1 -> 1
+  u: 1 -> 1
+  s: 1 -> 1
+  o: 1 -> 1
+
+Palabra: a
+  a: 1 -> 2
+
+Palabra: la
+  l: 1 -> 1
+  a: 1 -> 2
+
+Palabra: violación
+  v: 1 -> 3
+  i: 3 -> 7
+  o: 7 -> 13
+  l: 13 -> 19
+  a: 19 -> 25
+  c: 25 -> 31
+  i: 31 -> 36
+  ó: 36 -> 41
+  n: 41 -> 44
+
+Palabra: Cada
+  c: 1 -> 1
+  a: 1 -> 2
+  d: 2 -> 1
+  a: 1 -> 2
+
+Palabra: uno
+  u: 1 -> 1
+  n: 1 -> 1
+  o: 1 -> 1
+
+Palabra: de
+  d: 1 -> 1
+  e: 1 -> 1
+
+Palabra: estos
+  e: 1 -> 1
+  s: 1 -> 1
+  t: 1 -> 1
+  o: 1 -> 1
+  s: 1 -> 1
+
+Palabra: actos
+  a: 1 -> 2
+  c: 2 -> 5
+  t: 5 -> 1
+  o: 1 -> 1
+  s: 1 -> 1
+
+Palabra: repercute
+  r: 1 -> 1
+  e: 1 -> 1
+  p: 1 -> 1
+  e: 1 -> 1
+  r: 1 -> 1
+  c: 1 -> 1
+  u: 1 -> 1
+  t: 1 -> 1
+  e: 1 -> 1
+
+Palabra: profundamente
+  p: 1 -> 1
+  r: 1 -> 1
+  o: 1 -> 1
+  f: 1 -> 1
+  u: 1 -> 1
+  n: 1 -> 1
+  d: 1 -> 1
+  a: 1 -> 2
+  m: 2 -> 4
+  e: 4 -> 1
+  n: 1 -> 1
+  t: 1 -> 1
+  e: 1 -> 1
+
+Palabra: en
+  e: 1 -> 1
+  n: 1 -> 1
+
+Palabra: la
+  l: 1 -> 1
+  a: 1 -> 2
+
+Palabra: víctima
+  v: 1 -> 3
+  í: 3 -> 8
+  c: 8 -> 14
+  t: 14 -> 20
+  i: 20 -> 27
+  m: 27 -> 33
+  a: 33 -> 38
+
+Palabra: quien
+  q: 1 -> 1
+  u: 1 -> 1
+  i: 1 -> 1
+  e: 1 -> 1
+  n: 1 -> 1
+
+Palabra: a
+  a: 1 -> 2
+
+Palabra: menudo
+  m: 1 -> 4
+  e: 4 -> 1
+  n: 1 -> 1
+  u: 1 -> 1
+  d: 1 -> 1
+  o: 1 -> 1
+
+Palabra: se
+  s: 1 -> 1
+  e: 1 -> 1
+
+Palabra: ve
+  v: 1 -> 3
+  e: 3 -> 1
+
+Palabra: sometida
+  s: 1 -> 1
+  o: 1 -> 1
+  m: 1 -> 4
+  e: 4 -> 1
+  t: 1 -> 1
+  i: 1 -> 1
+  d: 1 -> 1
+  a: 1 -> 2
+
+Palabra: a
+  a: 1 -> 2
+
+Palabra: un
+  u: 1 -> 1
+  n: 1 -> 1
+
+Palabra: sistema
+  s: 1 -> 1
+  i: 1 -> 1
+  s: 1 -> 1
+  t: 1 -> 1
+  e: 1 -> 1
+  m: 1 -> 4
+  a: 4 -> 9
+
+Palabra: que
+  q: 1 -> 1
+  u: 1 -> 1
+  e: 1 -> 1
+
+Palabra: minimiza
+  m: 1 -> 4
+  i: 4 -> 1
+  n: 1 -> 1
+  i: 1 -> 1
+  m: 1 -> 4
+  i: 4 -> 1
+  z: 1 -> 1
+  a: 1 -> 2
+
+Palabra: o
+  o: 1 -> 1
+
+Palabra: justifica
+  j: 1 -> 1
+  u: 1 -> 1
+  s: 1 -> 1
+  t: 1 -> 1
+  i: 1 -> 1
+  f: 1 -> 1
+  i: 1 -> 1
+  c: 1 -> 1
+  a: 1 -> 2
+
+Palabra: la
+  l: 1 -> 1
+  a: 1 -> 2
+
+Palabra: crueldad
+  c: 1 -> 1
+  r: 1 -> 1
+  u: 1 -> 1
+  e: 1 -> 1
+  l: 1 -> 1
+  d: 1 -> 1
+  a: 1 -> 2
+  d: 2 -> 1
+
+Palabra: ejercida
+  e: 1 -> 1
+  j: 1 -> 1
+  e: 1 -> 1
+  r: 1 -> 1
+  c: 1 -> 1
+  i: 1 -> 1
+  d: 1 -> 1
+  a: 1 -> 2
+
+Palabra: contra
+  c: 1 -> 1
+  o: 1 -> 1
+  n: 1 -> 1
+  t: 1 -> 1
+  r: 1 -> 1
+  a: 1 -> 2
+
+Palabra: su
+  s: 1 -> 1
+  u: 1 -> 1
+
+Palabra: integridad
+  i: 1 -> 1
+  n: 1 -> 1
+  t: 1 -> 1
+  e: 1 -> 1
+  g: 1 -> 1
+  r: 1 -> 1
+  i: 1 -> 1
+  d: 1 -> 1
+  a: 1 -> 2
+  d: 2 -> 1
+
+Palabra: y
+  y: 1 -> 1
+
+Palabra: dignidad
+  d: 1 -> 1
+  i: 1 -> 1
+  g: 1 -> 1
+  n: 1 -> 1
+  i: 1 -> 1
+  d: 1 -> 1
+  a: 1 -> 2
+  d: 2 -> 1
+
+Palabra: Reconocer
+  r: 1 -> 1
+  e: 1 -> 1
+  c: 1 -> 1
+  o: 1 -> 1
+  n: 1 -> 1
+  o: 1 -> 1
+  c: 1 -> 1
+  e: 1 -> 1
+  r: 1 -> 1
+
+Palabra: el
+  e: 1 -> 1
+  l: 1 -> 1
+
+Palabra: problema
+  p: 1 -> 1
+  r: 1 -> 1
+  o: 1 -> 1
+  b: 1 -> 1
+  l: 1 -> 1
+  e: 1 -> 1
+  m: 1 -> 4
+  a: 4 -> 9
+
+Palabra: es
+  e: 1 -> 1
+  s: 1 -> 1
+
+Palabra: el
+  e: 1 -> 1
+  l: 1 -> 1
+
+Palabra: primer
+  p: 1 -> 1
+  r: 1 -> 1
+  i: 1 -> 1
+  m: 1 -> 4
+  e: 4 -> 1
+  r: 1 -> 1
+
+Palabra: paso
+  p: 1 -> 1
+  a: 1 -> 2
+  s: 2 -> 1
+  o: 1 -> 1
+
+Palabra: para
+  p: 1 -> 1
+  a: 1 -> 2
+  r: 2 -> 1
+  a: 1 -> 2
+
+Palabra: combatir
+  c: 1 -> 1
+  o: 1 -> 1
+  m: 1 -> 4
+  b: 4 -> 1
+  a: 1 -> 2
+  t: 2 -> 1
+  i: 1 -> 1
+  r: 1 -> 1
+
+Palabra: estas
+  e: 1 -> 1
+  s: 1 -> 1
+  t: 1 -> 1
+  a: 1 -> 2
+  s: 2 -> 1
+
+Palabra: expresiones
+  e: 1 -> 1
+  x: 1 -> 1
+  p: 1 -> 1
+  r: 1 -> 1
+  e: 1 -> 1
+  s: 1 -> 1
+  i: 1 -> 1
+  o: 1 -> 1
+  n: 1 -> 1
+  e: 1 -> 1
+  s: 1 -> 1
+
+Palabra: de
+  d: 1 -> 1
+  e: 1 -> 1
+
+Palabra: violencia
+  v: 1 -> 3
+  i: 3 -> 7
+  o: 7 -> 13
+  l: 13 -> 19
+  e: 19 -> 26
+  n: 26 -> 32
+  c: 32 -> 37
+  i: 37 -> 42
+  a: 42 -> 45
+
+Palabra: y
+  y: 1 -> 1
+
+Palabra: transformar
+  t: 1 -> 1
+  r: 1 -> 1
+  a: 1 -> 2
+  n: 2 -> 1
+  s: 1 -> 1
+  f: 1 -> 1
+  o: 1 -> 1
+  r: 1 -> 1
+  m: 1 -> 4
+  a: 4 -> 9
+  r: 9 -> 1
+
+Palabra: la
+  l: 1 -> 1
+  a: 1 -> 2
+
+Palabra: cultura
+  c: 1 -> 1
+  u: 1 -> 1
+  l: 1 -> 1
+  t: 1 -> 1
+  u: 1 -> 1
+  r: 1 -> 1
+  a: 1 -> 2
+
+Palabra: hacia
+  h: 1 -> 1
+  a: 1 -> 2
+  c: 2 -> 5
+  i: 5 -> 1
+  a: 1 -> 2
+
+Palabra: una
+  u: 1 -> 1
+  n: 1 -> 1
+  a: 1 -> 2
+
+Palabra: en
+  e: 1 -> 1
+  n: 1 -> 1
+
+Palabra: la
+  l: 1 -> 1
+  a: 1 -> 2
+
+Palabra: que
+  q: 1 -> 1
+  u: 1 -> 1
+  e: 1 -> 1
+
+Palabra: prevalezcan
+  p: 1 -> 1
+  r: 1 -> 1
+  e: 1 -> 1
+  v: 1 -> 3
+  a: 3 -> 2
+  l: 2 -> 1
+  e: 1 -> 1
+  z: 1 -> 1
+  c: 1 -> 1
+  a: 1 -> 2
+  n: 2 -> 1
+
+Palabra: el
+  e: 1 -> 1
+  l: 1 -> 1
+
+Palabra: respeto
+  r: 1 -> 1
+  e: 1 -> 1
+  s: 1 -> 1
+  p: 1 -> 1
+  e: 1 -> 1
+  t: 1 -> 1
+  o: 1 -> 1
+
+Palabra: la
+  l: 1 -> 1
+  a: 1 -> 2
+
+Palabra: equidad
+  e: 1 -> 1
+  q: 1 -> 1
+  u: 1 -> 1
+  i: 1 -> 1
+  d: 1 -> 1
+  a: 1 -> 2
+  d: 2 -> 1
+
+Palabra: y
+  y: 1 -> 1
+
+Palabra: la
+  l: 1 -> 1
+  a: 1 -> 2
+
+Palabra: protección
+  p: 1 -> 1
+  r: 1 -> 1
+  o: 1 -> 1
+  t: 1 -> 1
+  e: 1 -> 1
+  c: 1 -> 1
+  c: 1 -> 1
+  i: 1 -> 1
+  ó: 1 -> 1
+  n: 1 -> 1
+
+Palabra: a
+  a: 1 -> 2
+
+Palabra: quien
+  q: 1 -> 1
+  u: 1 -> 1
+  i: 1 -> 1
+  e: 1 -> 1
+  n: 1 -> 1
+
+Palabra: sufre
+  s: 1 -> 1
+  u: 1 -> 1
+  f: 1 -> 1
+  r: 1 -> 1
+  e: 1 -> 1
+
