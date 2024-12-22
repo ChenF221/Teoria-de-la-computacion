@@ -4,11 +4,10 @@ if (cond) then
     {
         if (cond) then
         {
-            statement
-        }
-        else
-        {
-            statement
+            if (cond) then
+            {
+                statement
+            }
         }
     }
 }

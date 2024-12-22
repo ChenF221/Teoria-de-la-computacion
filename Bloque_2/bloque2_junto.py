@@ -344,7 +344,7 @@ def animarAutomata(path, accepted):
             writer.write(letra, False, align="center", font=("Arial", 20))
             cont -= 20
 
-        sleep(1)
+        sleep(5)
 
     # Mensaje final
     writer.penup()
@@ -475,6 +475,7 @@ def derivar_gramatica(S, pasos):
         paso_actual += 1
 
     return derivaciones
+
 
 def convertir_a_pseudocodigo(expression):
 
@@ -707,12 +708,12 @@ def programa6():
         print(f"La cadena generada es: {cadena}")
 
     cadena_length = sum(1 for _ in cadena)
-    if cadena_length <= 16:
+    if cadena_length <= 10:
         # Preguntar si se desea animación
         opcion_animacion = input("¿Desea mostrar la animación? (s/n): ").strip().lower()
         mostrar_animacion = opcion_animacion == 's'
     else:
-        print("La cadena supera los 16 caracteres. No se puede animar.")
+        print("La cadena supera los 10 caracteres. No se puede animar.")
         return
 
     # Cargar una cadena de entrada
